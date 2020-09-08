@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=CountryInfoView\CountryInfoView.vbp
+Project=CountryInfoControl\CountryInfoControl.vbp
+Project=CountryInfoModel\CountryInfoModel.vbp
